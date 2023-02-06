@@ -51,7 +51,7 @@ flake8 = "^4.0.1"
 isort = "^5.7"
 lxml = "^4.5.0"
 mypy = "^0.931"
-mypy_extensions = "^0.4.3"
+mypy_extensions = "^1.0.0"
 
 # mypy stubs
 types-aiofiles = "^0.8.0"
